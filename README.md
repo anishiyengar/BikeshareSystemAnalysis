@@ -1,4 +1,4 @@
-# BikeshareSystemAnalysis by Anish Iyengar, Shreenidhi Jayaram, and Abhi Vora
+# Bikeshare System Analysis by Anish Iyengar, Shreenidhi Jayaram, and Abhi Vora
 
 This project used Data Science tools to analyze the effectiveness and intended use of the Bikeshare system in Boston.
 - Devised a program that used different datasets and metrics to analyze bike share efficiency in Boston
